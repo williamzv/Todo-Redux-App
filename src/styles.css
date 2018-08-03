@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color: darkgray;
+}
+
+.normal {
+    color: blue;
+    font-size: 18px;
+    line-height: 0;
+}
+
+.info p {
+    color: black;
+    padding: 0.3rem;
+}
